@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Sports Desk",
+            "title": "Watch: Musheer Khan's 'helicopter shot' at ICC U19 World Cup, draws comparison with MS Dhoni - Times of India",
+            "description": "Cricket News: Watch Musheer Khan's 'helicopter shot' at ICC U19 World Cup, draws comparison with MS Dhoni. Musheer Khan smashed his second century of the ICC U-19 World Cup, leading India to a comprehensive victory over New Zealand. The match showcased Mushee…",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/musheer-khans-helicopter-shot-at-icc-u19-world-cup-draws-comparison-with-ms-dhoni/articleshow/107284383.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-107284499,width-1070,height-580,imgsize-33708,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-01-31T07:02:00Z",
+            "content": "Pope, Hartley star as England stun India in 1st Test"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "James Webb Telescope Shares Stunning Pics Of 19 Spiral Galaxies - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2024-01-31T05:33:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Indian Cricketer Mayank Agarwal Files Police Complaint After Hospitalisation - NDTV Sports",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2NyaWNrZXQvbWF5YW5rLWFnYXJ3YWwtZmlsZXMtcG9saWNlLWNvbXBsYWludC1hZnRlci1ob3NwaXRhbGlzYXRpb24tcmVhc29uLWlzLTQ5NjIzNzfSAXNodHRwczovL3Nwb3J0cy5uZHR2LmNvbS9jcmlja2V0L21heWFuay1hZ2Fyd2FsLWZpbGVzLXBvbGljZS1jb21wbGFpbnQtYWZ0ZXItaG9zcGl0YWxpc2F0aW9uLXJlYXNvbi1pcy00OTYyMzc3L2FtcC8x",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2024-01-31T02:18:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Rohit Sharma switched off. Had it been Virat Kohli…: Vaughan's captaincy debate - Hindustan Times",
+            "description": "Michael Vaughan brought up India's big Virat Kohli vs Rohit Sharma captaincy debate after England won the first Test in Hyderabad. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/india-wouldnt-have-lost-1st-test-vs-england-under-virat-kohli-michael-vaughan-rohit-sharma-as-captain-gets-switched-off-101706637781846.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/30/1600x900/vaughan_debats_1706638520186_1706638534943.jpg",
+            "publishedAt": "2024-01-31T00:42:31Z",
+            "content": "The Virat Kohli vs Rohit Sharma debate goes on. Former England captain Michael Vaughan feels India would not have lost the opening Test match against England in Hyderabad last week under the captainc… [+2454 chars]"
+        }
+    ]
+}
