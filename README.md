@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
+=======
+ Getting Started with Create React App
+>>>>>>> de5da33f119f229c55e3b8486ad98ef38516340e
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
